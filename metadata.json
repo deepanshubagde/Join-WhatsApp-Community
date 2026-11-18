@@ -1,0 +1,6 @@
+{
+  "name": "Monkood Club — Welcome & Community Portal",
+  "description": "Thank you for joining Monkood Club. Welcome to the Monkood community and join our official WhatsApp community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
